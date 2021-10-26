@@ -1,0 +1,1 @@
+This is the first larger project I've come across in The Odin Project wherein I have to make a small, simple website for a recipe using only HTML.
